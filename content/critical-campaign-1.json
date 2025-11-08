@@ -63,10 +63,6 @@
                     "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
                 },
                 {
-                    "name": "Ashley Johnson",
-                    "role": "Pike Trickfoot"
-                },
-                {
                     "name": "Orion Acaba",
                     "role": "Tiberius Stormwind"
                 }
@@ -96,7 +92,40 @@
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Orion Acaba",
+                    "role": "Tiberius Stormwind"
+                }
+            ]
         },
         {
             "title": "Strange Bedfellows",
@@ -116,7 +145,40 @@
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Orion Acaba",
+                    "role": "Tiberius Stormwind"
+                }
+            ]
         },
         {
             "title": "Attack on the Duergar Warcamp",
@@ -136,7 +198,44 @@
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Pike Trickfoot"
+                },
+                {
+                    "name": "Orion Acaba",
+                    "role": "Tiberius Stormwind"
+                }
+            ]
         },
         {
             "title": "The Trick About Falling",
@@ -162,7 +261,40 @@
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Pike Trickfoot"
+                },
+                {
+                    "name": "Orion Acaba",
+                    "role": "Tiberius Stormwind"
+                }
+            ]
         },
         {
             "title": "Breaching the Emberhold",
@@ -188,7 +320,44 @@
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Pike Trickfoot"
+                },
+                {
+                    "name": "Orion Acaba",
+                    "role": "Tiberius Stormwind"
+                }
+            ]
         },
         {
             "title": "The Throne Room",
