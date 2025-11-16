@@ -12,6 +12,10 @@
             "type": "string",
             "description": "A brief description of the campaign"
         },
+        "youtubeplaylistid": {
+            "type": "string",
+            "description": "YouTube playlist ID for the campaign"
+        },
         "thumbnail": {
             "type": "string",
             "format": "uri",
