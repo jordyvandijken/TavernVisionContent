@@ -384,7 +384,40 @@
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Pike Trickfoot"
+                },
+                {
+                    "name": "Orion Acaba",
+                    "role": "Tiberius Stormwind"
+                }
+            ]
         },
         {
             "title": "Glass and Bone",
@@ -404,7 +437,40 @@
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Pike Trickfoot"
+                },
+                {
+                    "name": "Orion Acaba",
+                    "role": "Tiberius Stormwind"
+                }
+            ]
         },
         {
             "title": "Yug'voril Uncovered",
@@ -430,7 +496,40 @@
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Orion Acaba",
+                    "role": "Tiberius Stormwind"
+                }
+            ]
         },
         {
             "title": "K'Varn Revealed",
@@ -456,7 +555,44 @@
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Pike Trickfoot"
+                },
+                {
+                    "name": "Orion Acaba",
+                    "role": "Tiberius Stormwind"
+                }
+            ]
         },
         {
             "title": "The Temple Showdown",
@@ -482,7 +618,44 @@
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Pike Trickfoot"
+                },
+                {
+                    "name": "Orion Acaba",
+                    "role": "Tiberius Stormwind"
+                }
+            ]
         },
         {
             "title": "Escape from the Underdark",
@@ -508,7 +681,44 @@
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Pike Trickfoot"
+                },
+                {
+                    "name": "Orion Acaba",
+                    "role": "Tiberius Stormwind"
+                }
+            ]
         },
         {
             "title": "Shopping and Shipping",
@@ -534,7 +744,44 @@
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Pike Trickfoot"
+                },
+                {
+                    "name": "Orion Acaba",
+                    "role": "Tiberius Stormwind"
+                }
+            ]
         },
         {
             "title": "Skyward",
@@ -560,7 +807,44 @@
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Pike Trickfoot"
+                },
+                {
+                    "name": "Orion Acaba",
+                    "role": "Tiberius Stormwind"
+                }
+            ]
         },
         {
             "title": "Enter Vasselheim",
@@ -586,7 +870,44 @@
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Pike Trickfoot"
+                },
+                {
+                    "name": "Orion Acaba",
+                    "role": "Tiberius Stormwind"
+                }
+            ]
         },
         {
             "title": "Hubris",
@@ -612,7 +933,40 @@
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Orion Acaba",
+                    "role": "Tiberius Stormwind"
+                }
+            ]
         },
         {
             "title": "Trial of the Take",
@@ -638,10 +992,39 @@
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Felicia Day",
+                    "role": "Lyra"
+                },
+                {
+                    "name": "Mary Elizabeth McGlynn",
+                    "role": "Zahra Hydris"
+                }
+            ]
         },
         {
-            "title": "Trial of the Take: Part 2 (ft. FELICIA DAY)",
+            "title": "Trial of the Take: Part 2",
             "youtubeid": "IW6GgFQg3kk",
             "description": "Our unlikely collection of travelers press forward into to the frozen, hoary wilds of the Vesper Timberland, closing the last few miles between themselves and their prey. Rimefang, the dread white dragon awaits them, high above, within a blizzard-harried mountaintop. An intimidating pair of towering frost giants find them in the wood below, threatening to bring their quest to a end. Yet despite their mounting challenges, the party eventually finds itself standing before the great and terrible wyrm...",
             "segments": [
@@ -664,7 +1047,36 @@
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Felicia Day",
+                    "role": "Lyra"
+                },
+                {
+                    "name": "Mary Elizabeth McGlynn",
+                    "role": "Zahra Hydris"
+                }
+            ]
         },
         {
             "title": "Trial of the Take: Part 3",
@@ -690,7 +1102,32 @@
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Orion Acaba",
+                    "role": "Tiberius Stormwind"
+                },
+                {
+                    "name": "Wil Friedle",
+                    "role": "Kashaw Vesh"
+                },
+                {
+                    "name": "John DiMaggio",
+                    "role": "Thorbir Falbek"
+                }
+            ]
         },
         {
             "title": "Trial of the Take: Part 4",
@@ -716,7 +1153,32 @@
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Orion Acaba",
+                    "role": "Tiberius Stormwind"
+                },
+                {
+                    "name": "Wil Friedle",
+                    "role": "Kashaw Vesh"
+                },
+                {
+                    "name": "John DiMaggio",
+                    "role": "Thorbir Falbek"
+                }
+            ]
         },
         {
             "title": "AraMente to Pyrah",
@@ -742,7 +1204,36 @@
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Orion Acaba",
+                    "role": "Tiberius Stormwind"
+                }
+            ]
         },
         {
             "title": "The Rematch",
@@ -768,7 +1259,40 @@
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Orion Acaba",
+                    "role": "Tiberius Stormwind"
+                }
+            ]
         },
         {
             "title": "The Feast",
@@ -794,7 +1318,40 @@
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Orion Acaba",
+                    "role": "Tiberius Stormwind"
+                }
+            ]
         },
         {
             "title": "Crimson Diplomacy",
@@ -820,7 +1377,40 @@
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Orion Acaba",
+                    "role": "Tiberius Stormwind"
+                }
+            ]
         },
         {
             "title": "Consequences and Cows",
@@ -846,7 +1436,36 @@
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Orion Acaba",
+                    "role": "Tiberius Stormwind"
+                }
+            ]
         },
         {
             "title": "The Path to Whitestone",
@@ -872,7 +1491,40 @@
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Orion Acaba",
+                    "role": "Tiberius Stormwind"
+                }
+            ]
         },
         {
             "title": "The Sun Tree",
@@ -882,7 +1534,7 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "12:55",
+                    "end": "13:22",
                     "action": "skip"
                 },
                 {
