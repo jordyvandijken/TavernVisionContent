@@ -18,42 +18,13 @@ Each campaign file contains:
 
 ## Verification
 
-To validate a campaign JSON file against the schema:
+To validate all campaign JSON files against the schema, run:
 
-### Using VS Code
-
-1. Install the "JSON Schema" extension
-2. Open any `.json` file in the `content/` directory
-3. Validation errors will be highlighted automatically
-
-### Using Node.js
-
-```bash
-npm install ajv
-node -e "
-const Ajv = require('ajv');
-const fs = require('fs');
-const ajv = new Ajv();
-const schema = JSON.parse(fs.readFileSync('schema.json'));
-const data = JSON.parse(fs.readFileSync('content/critical-campaign-1.json'));
-const valid = ajv.validate(schema, data);
-console.log(valid ? 'Valid!' : ajv.errors);
-"
+```powershell
+python .\validate.py
 ```
 
-### Using Python
-
-```bash
-pip install jsonschema
-python -c "
-import json
-from jsonschema import validate
-with open('schema.json') as f: schema = json.load(f)
-with open('content/critical-campaign-1.json') as f: data = json.load(f)
-validate(data, schema)
-print('Valid!')
-"
-```
+This script checks every file in `content/` against `schema.json` and reports any validation errors.
 
 ## Example Structure
 
