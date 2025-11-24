@@ -2361,23 +2361,56 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
+                    "end": "9:35",
                     "action": "skip"
                 },
                 {
                     "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "2:21:39",
+                    "end": "2:34:16",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "3:39:18",
+                    "end": "3:42:51",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Pike Trickfoot"
+                }
+            ]
         },
         {
             "title": "The Feywild",
@@ -2387,49 +2420,105 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
+                    "end": "9:13",
                     "action": "skip"
                 },
                 {
                     "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "1:42:11",
+                    "end": "1:54:20",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "3:06:09",
+                    "end": "3:08:33",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Pike Trickfoot"
+                }
+            ]
         },
         {
-            "title": "Heredity and Hats (LIVE)",
+            "title": "Heredity and Hats",
             "youtubeid": "Ok4ZW9cNupc",
-            "description": "Vox Machina makes their way into the elven City of Syngorn to complete their pact with Garmili the satyr cartoonist.",
+            "description": "Vox Machina makes their way into the elven City of Syngorn to complete their pact with Garmili the satyr cartoonist. (LIVE)",
             "segments": [
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
-                    "action": "skip"
-                },
-                {
-                    "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "end": "14:35",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "2:41:16",
+                    "end": "2:42:35",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                }
+            ]
         },
         {
             "title": "Denizens of the Moonbrush",
@@ -2439,49 +2528,107 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
+                    "end": "7:07",
                     "action": "skip"
                 },
                 {
                     "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "1:35:42",
+                    "end": "1:53:11",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "3:59:41",
+                    "end": "4:01:21",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                }
+            ]
         },
         {
             "title": "Uninviting Waters",
             "youtubeid": "QePayxU0kKo",
-            "description": "With the Moonbrush behind them, Vox Machina presses on towards the rushing rivers of the Gilded Run that barricade the Shademirk Bog. Battling the enchanted currents, they stumble into a lurking foe who's hunger knows no bounds!",
+            "description": "With the Moonbrush behind them, Vox Machina presses on towards the rushing rivers of the Gilded Run that barricade the Shademirk Bog. Battling the enchanted currents, they stumble into a lurking foe who's hunger knows no bounds! (LIVE)",
             "segments": [
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
+                    "end": "9:32",
                     "action": "skip"
                 },
                 {
                     "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "1:49:11",
+                    "end": "1:57:52",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "2:57:57",
+                    "end": "2:59:40",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Pike Trickfoot"
+                }
+            ]
         },
         {
             "title": "The Echo Tree",
@@ -2491,23 +2638,40 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
+                    "end": "1:31",
                     "action": "skip"
-                },
-                {
-                    "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
-                    "action": "skip"
-                },
-                {
-                    "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
-                    "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                }
+            ]
         },
         {
             "title": "The Frigid Doom",
@@ -2517,23 +2681,46 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
-                    "action": "skip"
-                },
-                {
-                    "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "end": "5:58",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "3:57:19",
+                    "end": "3:57:37",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                }
+            ]
         },
         {
             "title": "The Streets of Ank'Harel",
@@ -2543,23 +2730,46 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
-                    "action": "skip"
-                },
-                {
-                    "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "end": "8:30",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "4:11:35",
+                    "end": "4:19:47",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                }
+            ]
         },
         {
             "title": "A Traveler's Gamble",
@@ -2569,23 +2779,52 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
+                    "end": "8:53",
                     "action": "skip"
                 },
                 {
                     "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "1:41:06",
+                    "end": "1:54:08",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "4:09:36",
+                    "end": "4:17:28",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                }
+            ]
         },
         {
             "title": "The Chase to Glintshore",
@@ -2595,23 +2834,52 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
+                    "end": "6:19",
                     "action": "skip"
                 },
                 {
                     "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "2:13:40",
+                    "end": "2:27:08",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "3:33:05",
+                    "end": "3:43:09",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                }
+            ]
         },
         {
             "title": "Cloak and Dagger",
@@ -2621,23 +2889,46 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
-                    "action": "skip"
-                },
-                {
-                    "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "end": "7:40",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "4:27:59",
+                    "end": "4:34:22",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                }
+            ]
         },
         {
             "title": "Passed Through Fire",
@@ -2647,23 +2938,56 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
+                    "end": "7:17",
                     "action": "skip"
                 },
                 {
                     "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "1:22:41",
+                    "end": "1:36:37",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "2:49:22",
+                    "end": "2:58:27",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Pike Trickfoot"
+                }
+            ]
         },
         {
             "title": "Trust",
@@ -2673,23 +2997,52 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
+                    "end": "10:37",
                     "action": "skip"
                 },
                 {
                     "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "1:38:36",
+                    "end": "1:57:51",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "3:49:48",
+                    "end": "3:59:33",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                }
+            ]
         },
         {
             "title": "Vorugal",
@@ -2699,23 +3052,56 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
+                    "end": "9:08",
                     "action": "skip"
                 },
                 {
                     "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "1:45:47",
+                    "end": "2:02:12",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "4:43:41",
+                    "end": "4:52:25",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Pike Trickfoot"
+                }
+            ]
         },
         {
             "title": "The Elephant in the Room",
@@ -2725,23 +3111,52 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
+                    "end": "29:43",
                     "action": "skip"
                 },
                 {
                     "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "1:56:28",
+                    "end": "2:15:17",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "3:05:09",
+                    "end": "3:06:50",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                }
+            ]
         },
         {
             "title": "The Coming Storm",
@@ -2749,25 +3164,60 @@
             "description": "The Coming Storm",
             "segments": [
                 {
+                    "title": "Halloween intro",
+                    "start": "0:26",
+                    "end": "4:23",
+                    "action": "skip"
+                },
+                {
                     "title": "Pre-show",
-                    "start": "0:00",
-                    "end": "0:00",
+                    "start": "4:23",
+                    "end": "15:55",
                     "action": "skip"
                 },
                 {
                     "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "1:48:26",
+                    "end": "2:09:11",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "3:15:02",
+                    "end": "3:24:39",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                }
+            ]
         },
         {
             "title": "Path of Brass",
@@ -2777,23 +3227,56 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
+                    "end": "9:47",
                     "action": "skip"
                 },
                 {
                     "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "1:57:02",
+                    "end": "2:26:28",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "3:50:25",
+                    "end": "4:00:17",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Pike Trickfoot"
+                }
+            ]
         },
         {
             "title": "Where the Cards Fall",
@@ -2803,23 +3286,56 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
+                    "end": "12:38",
                     "action": "skip"
                 },
                 {
                     "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "2:05:56",
+                    "end": "2:24:05",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "3:48:10",
+                    "end": "3:57:40",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Pike Trickfoot"
+                }
+            ]
         },
         {
             "title": "Brawl in the Arches",
@@ -2829,23 +3345,56 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
+                    "end": "10:01",
                     "action": "skip"
                 },
                 {
                     "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "2:55:50",
+                    "end": "3:06:27",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "3:43:02",
+                    "end": "3:52:03",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Pike Trickfoot"
+                }
+            ]
         },
         {
             "title": "Clash at Daxio",
@@ -2855,23 +3404,56 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
+                    "end": "12:58",
                     "action": "skip"
                 },
                 {
                     "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "2:49:13",
+                    "end": "3:01:33",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "4:17:14",
+                    "end": "4:25:15",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Pike Trickfoot"
+                }
+            ]
         },
         {
             "title": "The Siege of Emon",
@@ -2881,23 +3463,56 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
+                    "end": "16:10",
                     "action": "skip"
                 },
                 {
                     "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "1:59:13",
+                    "end": "2:19:32",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "4:06:02",
+                    "end": "4:16:26",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Wil Friedle",
+                    "role": "Kashaw Vesh"
+                },
+                {
+                    "name": "Mary Elizabeth McGlynn",
+                    "role": "Zahra Hydris"
+                }
+            ]
         },
         {
             "title": "Thordak",
@@ -2907,23 +3522,52 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
+                    "end": "10:40",
                     "action": "skip"
                 },
                 {
                     "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "3:22:34",
+                    "end": "3:38:06",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "4:16:29",
+                    "end": "4:26:39",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                }
+            ]
         },
         {
             "title": "Raishan",
@@ -2933,23 +3577,46 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
-                    "action": "skip"
-                },
-                {
-                    "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "end": "6:15",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "3:11:41",
+                    "end": "3:23:30",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                }
+            ]
         },
         {
             "title": "What Lies Beneath the Surface",
@@ -2959,23 +3626,56 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
+                    "end": "6:40",
                     "action": "skip"
                 },
                 {
                     "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "1:49:37",
+                    "end": "2:06:57",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "3:53:46",
+                    "end": "4:00:50",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Patrick Rothfuss",
+                    "role": "kerrek"
+                }
+            ]
         },
         {
             "title": "Deadly Echoes",
@@ -2985,23 +3685,52 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
+                    "end": "7:24",
                     "action": "skip"
                 },
                 {
                     "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "2:17:22",
+                    "end": "2:32:08",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "4:37:10",
+                    "end": "4:48:33",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Patrick Rothfuss",
+                    "role": "kerrek"
+                }
+            ]
         },
         {
             "title": "The Deceiver's Stand",
@@ -3011,23 +3740,56 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
+                    "end": "9:45",
                     "action": "skip"
                 },
                 {
                     "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "2:52:19",
+                    "end": "3:06:26",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "4:15:11",
+                    "end": "4:18:13",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Patrick Rothfuss",
+                    "role": "kerrek"
+                }
+            ]
         },
         {
             "title": "Loose Ends",
@@ -3037,23 +3799,56 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
+                    "end": "17:21",
                     "action": "skip"
                 },
                 {
                     "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "1:52:53",
+                    "end": "2:10:40",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "3:30:46",
+                    "end": "3:33:53",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Pike Trickfoot"
+                },
+                {
+                    "name": "Patrick Rothfuss",
+                    "role": "kerrek"
+                }
+            ]
         },
         {
             "title": "A Bard's Lament",
@@ -3063,23 +3858,52 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
+                    "end": "9:30",
                     "action": "skip"
                 },
                 {
                     "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "1:17:11",
+                    "end": "1:38:14",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "3:16:27",
+                    "end": "3:27:17",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Scanlan Shorthalt"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                }
+            ]
         },
         {
             "title": "Daring Days",
@@ -3089,23 +3913,52 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
+                    "end": "30:34",
                     "action": "skip"
                 },
                 {
                     "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "1:33:14",
+                    "end": "1:50:36",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "3:45:34",
+                    "end": "3:51:28",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Taryon Darrington"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                }
+            ]
         },
         {
             "title": "Onward to Vesrah",
@@ -3115,23 +3968,52 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
+                    "end": "7:58",
                     "action": "skip"
                 },
                 {
                     "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "2:10:46",
+                    "end": "2:27:45",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "3:31:12",
+                    "end": "3:33:41",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Taryon Darrington"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                }
+            ]
         },
         {
             "title": "Tangled Depths",
@@ -3141,23 +4023,52 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
+                    "end": "11:00",
                     "action": "skip"
                 },
                 {
                     "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "1:36:19",
+                    "end": "1:58:07",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "5:19:43",
+                    "end": "5:30:29",
                     "action": "next"
                 }
             ],
-            "people": []
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Taryon Darrington"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                }
+            ]
         },
         {
             "title": "Curious Tides",
