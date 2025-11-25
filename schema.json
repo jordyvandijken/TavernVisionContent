@@ -2,7 +2,7 @@
     "$schema": "http://json-schema.org/draft-07/schema#",
     "title": "Campaign Schema",
     "type": "object",
-    "required": ["title", "description", "thumbnail", "episodes"],
+    "required": ["title", "description", "thumbnail", "episodes", "status"],
     "properties": {
         "title": {
             "type": "string",
@@ -20,6 +20,11 @@
             "type": "string",
             "format": "uri",
             "description": "URL to the campaign thumbnail image"
+        },
+        "status": {
+            "type": "string",
+            "enum": ["notStarted", "inProgress", "complete"],
+            "description": "The progress status of this content"
         },
         "episodes": {
             "type": "array",
