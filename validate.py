@@ -6,10 +6,9 @@ Validates all JSON files in the content/ directory against the schema.json file.
 """
 
 import json
-import os
 import sys
 from pathlib import Path
-from jsonschema import Draft7Validator, ValidationError
+from jsonschema import Draft7Validator
 
 def load_schema():
     """Load the JSON schema from schema.json"""
@@ -59,13 +58,13 @@ def main():
     schema = load_schema()
     print("✅ Schema loaded successfully")
     
-    # Find all JSON files in content directory
+    # Find all JSON files in content directory (recursively)
     content_dir = Path('content')
     if not content_dir.exists():
         print("❌ Error: content/ directory not found")
         sys.exit(1)
     
-    json_files = list(content_dir.glob('*.json'))
+    json_files = list(content_dir.glob('**/*.json'))
     if not json_files:
         print("⚠️  Warning: No JSON files found in content/ directory")
         return
@@ -78,7 +77,8 @@ def main():
     invalid_count = 0
     
     for file_path in sorted(json_files):
-        print(f"🔄 Validating {file_path.name}...")
+        relative_path = file_path.relative_to(content_dir)
+        print(f"🔄 Validating {relative_path}...")
         is_valid, error_msg = validate_file(file_path, schema)
         
         if is_valid:

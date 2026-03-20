@@ -38,7 +38,7 @@
     "definitions": {
         "episode": {
             "type": "object",
-            "required": ["title", "youtubeid", "description"],
+            "required": ["title", "youtubeid", "description", "uploadDate"],
             "properties": {
                 "title": {
                     "type": "string",
@@ -52,6 +52,11 @@
                 "description": {
                     "type": "string",
                     "description": "Detailed description of the episode"
+                },
+                "uploadDate": {
+                    "type": "string",
+                    "format": "date",
+                    "description": "Date the episode was uploaded (YYYY-MM-DD)"
                 },
                 "segments": {
                     "type": "array",
