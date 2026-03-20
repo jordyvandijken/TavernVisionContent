@@ -6,10 +6,9 @@ Validates all JSON files in the content/ directory against the schema.json file.
 """
 
 import json
-import os
 import sys
 from pathlib import Path
-from jsonschema import Draft7Validator, ValidationError
+from jsonschema import Draft7Validator
 
 def load_schema():
     """Load the JSON schema from schema.json"""
