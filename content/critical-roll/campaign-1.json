@@ -5219,13 +5219,13 @@
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
+                    "end": "14:02",
                     "action": "skip"
                 },
                 {
                     "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "1:16:30",
+                    "end": "1:37:02",
                     "action": "skip"
                 },
                 {
@@ -5235,7 +5235,40 @@
                     "action": "next"
                 }
             ],
-            "people": [],
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Taryon Darrington"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Pike Trickfoot"
+                }
+            ],
             "uploadDate": "2017-04-05"
         },
         {
