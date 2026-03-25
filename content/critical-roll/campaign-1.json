@@ -5230,8 +5230,8 @@
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "3:23:56",
+                    "end": "3:35:50",
                     "action": "next"
                 }
             ],
@@ -5274,34 +5274,63 @@
         {
             "title": "Voice of the Tempest",
             "youtubeid": "Yr3tvzSqTDQ",
-            "description": "In this special announcement episode, Liam Foster unveils a collection of his own fan art depicting the Vox Machina crew, launching a contest for fans to win signed pieces via social media. The group wraps up various show updates, including Wondercon panels and new podcast seasons, while Liam shares his chaotic, alcohol-fueled artistic process with the cast. The night concludes on a bizarre note as the cast reacts to a shocking revelation that Terry has apparently exploded, leaving the table in a state of confusion.",
+            "description": "",
             "segments": [
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
+                    "end": "15:06",
                     "action": "skip"
                 },
                 {
                     "title": "Break",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "2:36:07",
+                    "end": "2:51:53",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00:00",
-                    "end": "0:00:00",
+                    "start": "3:58:35",
+                    "end": "4:08:37",
                     "action": "next"
                 }
             ],
-            "people": [],
+            "people": [
+                {
+                    "name": "Matthew Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Vex'ahlia"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Vax'ildan"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Grog Strongjaw"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Keyleth"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Taryon Darrington"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Percival 'Percy' Fredrickstein Von Musel Klossowski de Rolo III"
+                }
+            ],
             "uploadDate": "2017-04-12"
         },
         {
             "title": "Vox Machina Go to Hell",
             "youtubeid": "mymhgcNgqBY",
-            "description": "Following their victory against the Chroma Conclave, Vox Machina returns to Zephyr to celebrate Keyleth's successful trial and her official coronation as the Voice of the Tempest. The tribe gathers for a joyous feast adorned with blue and gold ribbons, marking Keyleth's ascension to leadership amidst the cheers of her people. However, as the celebration winds down, Korn guides Keyleth away to warn her that true leadership requires stepping in when conflict arises, leaving the party to wonder what specific advice he will offer.",
+            "description": "",
             "segments": [
                 {
                     "title": "Pre-show",
@@ -5328,7 +5357,7 @@
         {
             "title": "Deals in the Dark",
             "youtubeid": "uplxc5lB7cQ",
-            "description": "After navigating the treacherous streets of Dis in the Nine Hells, the party seeks refuge in a tavern before Kith ventures out to locate the missing Otis. However, her stealth is compromised as she is cornered in a dark alleyway by a chain devil and a mutated dwarf who demand answers about Vax. With her back against the wall and enemies closing in, Kith prepares to execute a risky transformation plan, leaving her fate hanging in the balance as she begins to undergo a magical transformation.",
+            "description": "",
             "segments": [
                 {
                     "title": "Pre-show",
@@ -5355,7 +5384,7 @@
         {
             "title": "Bats Out of Hell",
             "youtubeid": "Tcj90Lu6Tyk",
-            "description": "Vox Machina descended into the Nine Hells to hunt down the Rakshasa Hodes, but their mission requires them to first assassinate the Pitfiend Uhtugash to gain safe passage into the prison of Mentiri. After rescuing a tortured dwarf and battling demonic guardians, the party finally breaches the throne room where Uhtugash sits between pools of molten blood, speaking telepathically to the intruders. With Trinket ready to strike and Grog transformed into a bear, the party stands on the precipice of a deadly confrontation that could either secure their escape or seal their doom against the Pitfiend.",
+            "description": "",
             "segments": [
                 {
                     "title": "Pre-show",
@@ -5382,7 +5411,7 @@
         {
             "title": "Jugs and Rods",
             "youtubeid": "BNaWnFwfGJc",
-            "description": "The Critical Role cast kicks off the episode with a technical sync test and a flurry of announcements regarding the community survey, upcoming Wednesday Club comics workshops, and Taliesin's Seattle convention plans. Ashley Johnson joins the table despite traffic delays, while the group shares humorous stories about past events and cameo appearances from the community. As the technical checks conclude and the mood shifts from administrative talk to actual gameplay, the session is poised to begin with the first roll of the dice.",
+            "description": "",
             "segments": [
                 {
                     "title": "Pre-show",
@@ -5409,7 +5438,7 @@
         {
             "title": "One Year Later...",
             "youtubeid": "oUoMRr12oQc",
-            "description": "After a year of peace, Vox Machina reunites to share their downtime adventures, with Grog proudly displaying his new bear tattoo and a skull mug while recounting his battles in Masalheim. However, his curiosity about the Deck of Many Things leads him into a shady alleyway where he stumbles upon a mysterious stranger who seems to know far too much about the legendary artifact. As the stranger begins to reveal the deck's secrets, the conversation takes a sudden turn that leaves Grog questioning his next move.",
+            "description": "",
             "segments": [
                 {
                     "title": "Pre-show",
@@ -5436,7 +5465,7 @@
         {
             "title": "Family Matters",
             "youtubeid": "ZWkicUhQ7yE",
-            "description": "Following their triumphant return to White Stone after a year-long hiatus, Vox Machina is greeted by a massive fan gift and the mysterious arrival of Pike Trickfoot's family in a horse-drawn cart. While the party enjoys a moment of peace, Uncle Ogden begins sharing crucial information during their conversations that hints at hidden truths about their past. The episode concludes with the group listening intently to the eldest gnome's revelation, leaving the party's past in jeopardy.",
+            "description": "",
             "segments": [
                 {
                     "title": "Pre-show",
@@ -5463,7 +5492,7 @@
         {
             "title": "Taryon, My Wayward Son",
             "youtubeid": "JweRpzsCiGo",
-            "description": "After discovering that Pike Trickfoot's family orchestrated a fraudulent ritual to scam them, Vox Machina returns to the Alba Strasieras to retrieve a diamond lost during their previous confrontation. Using magic to locate the gem underwater, the party sends Keelette on a daring leap from the cliff's edge to secure the treasure before the tide rises. However, as she plummets toward the jagged rocks below, a desperate transformation into a goldfish becomes her only hope to avoid being crushed by the impact.",
+            "description": "",
             "segments": [
                 {
                     "title": "Pre-show",
@@ -5490,7 +5519,7 @@
         {
             "title": "The Mines of the Many",
             "youtubeid": "H84po-1-GB0",
-            "description": "Following a tense meeting with Howard Darington regarding his family's financial ruin and past sins, Vox Machina retreats to the estate to locate Terry's sister, Maryanne, who has been working diligently in her chambers since being abducted by her father. They find her dressed formally in a business-like setting, revealing a stark contrast to her previous casual demeanor as she explains the circumstances of her forced return home. As the adventurers prepare to confront the reality of her captivity, the party must decide whether to intervene in the Darington family's desperate schemes before the conversation is abruptly cut short.",
+            "description": "",
             "segments": [
                 {
                     "title": "Pre-show",
@@ -5517,7 +5546,7 @@
         {
             "title": "Masquerade",
             "youtubeid": "B16lXrMK5t0",
-            "description": "After successfully defeating an awakened celestial within the Herethas platinum mines, the party emerges into the night sky only to find the mine infested with hundreds of swarming insectoid creatures. Although they secured a deal with the Darington family to save their estate, the adventurers now face a swarm of enemies climbing the walls while trying to hide the cave entrance from the syndicate contact. With acid jets ready to fire and the infestation still active, the group must decide whether to trap the beast or flee before the swarm fully breaches the surface.",
+            "description": "",
             "segments": [
                 {
                     "title": "Pre-show",
@@ -5544,7 +5573,7 @@
         {
             "title": "Unfinished Business",
             "youtubeid": "Gyk7vcIgPv8",
-            "description": "Celebrating their monumental 100th episode, the Critical Role cast unveils a stunning new set and delivers heartfelt thanks to the community that has supported them for years. The episode features major announcements including a new podcast series, limited-edition art prints, and a humorous commercial for Slayers Cake, all while the cast navigates the chaos of a live stream. The celebration abruptly halts as the cast scrambles to finalize travel plans, leaving the audience to anxiously await the outcome of the departing cast member's flight.",
+            "description": "",
             "segments": [
                 {
                     "title": "Pre-show",
@@ -5571,7 +5600,7 @@
         {
             "title": "Thar Amphala",
             "youtubeid": "MfTj8ZFaUy0",
-            "description": "Vox Machina confronts Lady Delilah Breyer at a second ziggurat, emerging victorious but haunted by the loss of their ally Dodie to the battle's toll. With the cult leader escaping into a magical sphere and a third entrance yet to be found, the party must decide whether to pursue the fleeing enemies or collapse the mountain's entrances to prevent further intrusion. As they rummage through the bodies and search for the final exit, the group faces a critical choice on how to secure the ziggurat before the whispers return.",
+            "description": "",
             "segments": [
                 {
                     "title": "Pre-show",
@@ -5598,7 +5627,7 @@
         {
             "title": "Race to the Tower",
             "youtubeid": "N1A-JGIF1Vc",
-            "description": "The party descends into the shadowy ruins of Tha-Ram-Pala, a forgotten city where cultists of the Whispered One are funneling magical energy into a central obsidian tower known as Entropus. Masquerading as undead creatures to avoid detection, the group navigates the shattered streets while managing their limited resources and the lingering effects of their transformation. With the cultists growing suspicious and the ritual nearing completion, the adventurers must choose between launching a sudden assault or remaining hidden as they approach the ominous beacon.",
+            "description": "",
             "segments": [
                 {
                     "title": "Pre-show",
@@ -5625,7 +5654,7 @@
         {
             "title": "The Fate-Touched",
             "youtubeid": "2HOdxvQ_ydU",
-            "description": "Vox Machina infiltrates the Shadowfell to stop Vecna's ritual at the Dark Tower Entropus, only to suffer a catastrophic defeat that leaves Vax'ildan disintegrated and Grog banished to another dimension. Stranded in the Feywild with the corpse of their fallen ally, the surviving party must now navigate the aftermath of their greatest loss while Keyleth attempts a forbidden resurrection spell. As she prepares to cast the incantation, the party grapples with the terrifying cost of bringing Vax back and the uncertainty of whether they can truly save him from the dead.",
+            "description": "",
             "segments": [
                 {
                     "title": "Pre-show",
@@ -5652,7 +5681,7 @@
         {
             "title": "Elysium",
             "youtubeid": "bAYN8qw7FYw",
-            "description": "Following the miraculous return of Vax'ildan, Vox Machina journeys to the plane of Elysium to seek divine power against the Undying King. Upon landing on the crystalline shores of the Island of Renewal, the party gathers strange pearl sand and approaches a mysterious tower pulsing with an internal flame. As they prepare to investigate the enigmatic structure, they must decide whether to rest or set wards against the unknown fire before facing whatever entity resides within.",
+            "description": "",
             "segments": [
                 {
                     "title": "Pre-show",
@@ -5679,7 +5708,7 @@
         {
             "title": "The Fear of Isolation",
             "youtubeid": "uwNxxXtGxgM",
-            "description": "After surviving a brutal confrontation with the Undying King, Vox Machina finds themselves in the ethereal realm of Elysium where their fallen comrade Vax'ildan has mysteriously returned. The party seeks counsel from the Dawn Father Pellor and receives a divine blessing, but their investigation into the realm's secrets is interrupted by a disturbing revelation regarding the Knowing Goddess Ayun. As they attempt to understand how to leave this divine plane, a shocking revelation about Ayun hangs in the air, leaving the team to face an uncertain future.",
+            "description": "",
             "segments": [
                 {
                     "title": "Pre-show",
@@ -5706,7 +5735,7 @@
         {
             "title": "The Endless Atheneum",
             "youtubeid": "Wl1Oi8Rbc1s",
-            "description": "Vox Machina has secured blessings from deities across the realms to prepare for the ascension of the archlich Vekna. After surviving an ambush by assassins and extracting the key from Sprig the Obnoxious, the party planeshifted into a surreal dimension filled with endless shelves of books. Standing before the Knowing Mistress herself, the adventurers realize the true cost of knowledge is about to be revealed, but the vision of the library suddenly distorts before their eyes.",
+            "description": "",
             "segments": [
                 {
                     "title": "Pre-show",
@@ -5733,7 +5762,7 @@
         {
             "title": "Scaldseat",
             "youtubeid": "Cr2Rc7MRaf0",
-            "description": "Vox Machina decend into the heart of an undersea volcano to find the forge of the gods.",
+            "description": "",
             "segments": [
                 {
                     "title": "Pre-show",
@@ -5760,7 +5789,7 @@
         {
             "title": "The Core Anvil",
             "youtubeid": "2sBrNMR5FRE",
-            "description": "Upon finding the Core Anvil and the forge guardian that protects it, Vox Machina attempt to create the divine trammels that will aid in their fight against Vecna.",
+            "description": "",
             "segments": [
                 {
                     "title": "Pre-show",
@@ -5787,7 +5816,7 @@
         {
             "title": "The Ominous March",
             "youtubeid": "t7oLhv6HKl4",
-            "description": "Vox Machina returns to Vasselheim to prepare for the coming of Vecna! (Live)",
+            "description": "",
             "segments": [
                 {
                     "title": "Pre-show",
@@ -5814,7 +5843,7 @@
         {
             "title": "The Climb Within",
             "youtubeid": "5qQMkxfWkSw",
-            "description": "Vox Machina find treasures, horrors, and mysteries as they make their way through the body of an undead primordial.",
+            "description": "",
             "segments": [
                 {
                     "title": "Pre-show",
@@ -5841,7 +5870,7 @@
         {
             "title": "Shadows of Thomara",
             "youtubeid": "DFGKgYY7SKk",
-            "description": "Vox Machina make their way through the cursed caverns of the undead dwarven city of Thomara, hoping their presence won't be discovered...",
+            "description": "",
             "segments": [
                 {
                     "title": "Pre-show",
@@ -5868,7 +5897,7 @@
         {
             "title": "Dark Dealings",
             "youtubeid": "kTd4D8q5MvY",
-            "description": "Vox Machina search for a powerful artifact that could help swing the tide in their favor. Nothing could possibly go wrong...",
+            "description": "",
             "segments": [
                 {
                     "title": "Pre-show",
@@ -5895,7 +5924,7 @@
         {
             "title": "The Final Ascent",
             "youtubeid": "zUXL--sSc3A",
-            "description": "Vox Machina, having made their final preparations, make their way to the top of the tower of Entropis.",
+            "description": "",
             "segments": [
                 {
                     "title": "Pre-show",
@@ -5922,7 +5951,7 @@
         {
             "title": "Vecna, the Ascended",
             "youtubeid": "W-SMrG0QLc0",
-            "description": "Vox Machina battles Vecna.",
+            "description": "",
             "segments": [
                 {
                     "title": "Pre-show",
@@ -5949,7 +5978,7 @@
         {
             "title": "The Chapter Closes",
             "youtubeid": "XrKcdyV0eq4",
-            "description": "Victory is celebrated, and all debts are paid\u2026",
+            "description": "",
             "segments": [
                 {
                     "title": "Pre-show",
