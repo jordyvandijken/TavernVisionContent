@@ -6481,6 +6481,12 @@
                     "action": "skip"
                 },
                 {
+                    "title": "Break",
+                    "start": "2:28:53",
+                    "end": "2:31:06",
+                    "action": "skip"
+                },
+                {
                     "title": "End",
                     "start": "3:36:45",
                     "end": "3:45:25",
