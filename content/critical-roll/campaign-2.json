@@ -1,6 +1,6 @@
 {
     "title": "The Mighty Nein - Campaign Two",
-    "description": "In the second campaign of Critical Role, a new group of adventurers known as the Mighty Nein come together in the city of Zadash. As they navigate the complexities of their relationships and the world around them, they uncover dark secrets and face powerful foes.",
+    "description": "",
     "youtubeplaylistid": "PLqTT_VuffgDN895_eXopKOViS2TBTQzi1",
     "thumbnail": "https://img.youtube.com/vi/byva0hOj8CU/0.jpg",
     "status": "notStarted",
@@ -8,71 +8,479 @@
         {
             "title": "Curious Beginnings",
             "youtubeid": "byva0hOj8CU",
-            "description": "Curious Beginnings",
-            "segments": [],
-            "people": [],
+            "description": "",
+            "segments": [
+                {
+                    "title": "Pre-show",
+                    "start": "0:00",
+                    "end": "16:30",
+                    "action": "skip"
+                },
+                {
+                    "title": "Break",
+                    "start": "1:31:03",
+                    "end": "1:50:18",
+                    "action": "skip"
+                },
+                {
+                    "title": "End",
+                    "start": "3:14:45",
+                    "end": "3:24:32",
+                    "action": "skip"
+                }
+            ],
+            "people": [
+                {
+                    "name": "Matt Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Caleb Widogast"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Nott the Brave"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Jester Lavorre"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Beauregard Lionett"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Fjord Stone"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Mollymauk Tealeaf"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Yasha Nydoorin"
+                }
+            ],
             "uploadDate": "2018-01-15"
         },
         {
             "title": "A Show of Scrutiny",
             "youtubeid": "MPELLuQXVcE",
-            "description": "A Show of Scrutiny",
-            "segments": [],
-            "people": [],
+            "description": "",
+            "segments": [
+                {
+                    "title": "Pre-show",
+                    "start": "0:00",
+                    "end": "8:26",
+                    "action": "skip"
+                },
+                {
+                    "title": "Break",
+                    "start": "2:05:54",
+                    "end": "2:21:08",
+                    "action": "skip"
+                },
+                {
+                    "title": "End",
+                    "start": "4:09:20",
+                    "end": "4:22:09",
+                    "action": "skip"
+                }
+            ],
+            "people": [
+                {
+                    "name": "Matt Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Caleb Widogast"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Nott the Brave"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Jester Lavorre"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Beauregard Lionett"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Fjord Stone"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Mollymauk Tealeaf"
+                }
+            ],
             "uploadDate": "2018-01-22"
         },
         {
             "title": "The Midnight Chase",
             "youtubeid": "_Ig_s9j4MuU",
-            "description": "The Midnight Chase",
-            "segments": [],
-            "people": [],
+            "description": "",
+            "segments": [
+                {
+                    "title": "Pre-show",
+                    "start": "0:00",
+                    "end": "7:02",
+                    "action": "skip"
+                },
+                {
+                    "title": "Break",
+                    "start": "2:12:53",
+                    "end": "2:28:40",
+                    "action": "skip"
+                },
+                {
+                    "title": "End",
+                    "start": "3:47:43",
+                    "end": "3:59:28",
+                    "action": "skip"
+                }
+            ],
+            "people": [
+                {
+                    "name": "Matt Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Caleb Widogast"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Nott the Brave"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Jester Lavorre"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Beauregard Lionett"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Fjord Stone"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Mollymauk Tealeaf"
+                }
+            ],
             "uploadDate": "2018-01-29"
         },
         {
             "title": "Disparate Pieces",
             "youtubeid": "JtJTqLSzXaM",
-            "description": "Disparate Pieces",
-            "segments": [],
-            "people": [],
+            "description": "",
+            "segments": [
+                {
+                    "title": "Pre-show",
+                    "start": "0:00",
+                    "end": "8:51",
+                    "action": "skip"
+                },
+                {
+                    "title": "Break",
+                    "start": "1:58:17",
+                    "end": "2:11:48",
+                    "action": "skip"
+                },
+                {
+                    "title": "End",
+                    "start": "3:42:07",
+                    "end": "3:56:13",
+                    "action": "skip"
+                }
+            ],
+            "people": [
+                {
+                    "name": "Matt Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Caleb Widogast"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Nott the Brave"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Jester Lavorre"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Beauregard Lionett"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Fjord Stone"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Mollymauk Tealeaf"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Yasha Nydoorin"
+                }
+            ],
             "uploadDate": "2018-02-05"
         },
         {
             "title": "The Open Road",
             "youtubeid": "m3vPWbJoBrQ",
-            "description": "The Open Road",
-            "segments": [],
-            "people": [],
+            "description": "",
+            "segments": [
+                {
+                    "title": "Pre-show",
+                    "start": "0:00",
+                    "end": "9:06",
+                    "action": "skip"
+                },
+                {
+                    "title": "Break",
+                    "start": "2:56:14",
+                    "end": "3:12:38",
+                    "action": "skip"
+                },
+                {
+                    "title": "End",
+                    "start": "3:29:16",
+                    "end": "3:43:11",
+                    "action": "skip"
+                }
+            ],
+            "people": [
+                {
+                    "name": "Matt Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Caleb Widogast"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Nott the Brave"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Jester Lavorre"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Beauregard Lionett"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Fjord Stone"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Mollymauk Tealeaf"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Yasha Nydoorin"
+                }
+            ],
             "uploadDate": "2018-02-12"
         },
         {
             "title": "The Howling Mines",
             "youtubeid": "5DHEj9nY-wo",
-            "description": "The Howling Mines",
-            "segments": [],
-            "people": [],
+            "description": "",
+            "segments": [
+                {
+                    "title": "Pre-show",
+                    "start": "0:00",
+                    "end": "8:03",
+                    "action": "skip"
+                },
+                {
+                    "title": "Break",
+                    "start": "2:19:11",
+                    "end": "2:34:09",
+                    "action": "skip"
+                },
+                {
+                    "title": "End",
+                    "start": "3:52:49",
+                    "end": "4:08:23",
+                    "action": "skip"
+                }
+            ],
+            "people": [
+                {
+                    "name": "Matt Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Caleb Widogast"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Nott the Brave"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Jester Lavorre"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Beauregard Lionett"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Fjord Stone"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Mollymauk Tealeaf"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Yasha Nydoorin"
+                }
+            ],
             "uploadDate": "2018-02-19"
         },
         {
             "title": "Hush",
             "youtubeid": "JAyT10WP-cY",
-            "description": "Hush",
-            "segments": [],
-            "people": [],
+            "description": "",
+            "segments": [
+                {
+                    "title": "Pre-show",
+                    "start": "0:00",
+                    "end": "9:03",
+                    "action": "skip"
+                },
+                {
+                    "title": "Break",
+                    "start": "2:24:00",
+                    "end": "2:39:01",
+                    "action": "skip"
+                },
+                {
+                    "title": "End",
+                    "start": "4:12:49",
+                    "end": "4:30:28",
+                    "action": "skip"
+                }
+            ],
+            "people": [
+                {
+                    "name": "Matt Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Caleb Widogast"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Nott the Brave"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Jester Lavorre"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Beauregard Lionett"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Fjord Stone"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Mollymauk Tealeaf"
+                },
+                {
+                    "name": "Khary Payton",
+                    "role": "Shakäste"
+                }
+            ],
             "uploadDate": "2018-02-26"
         },
         {
             "title": "The Gates of Zadash",
             "youtubeid": "dGv-_8tk8g4",
-            "description": "The Gates of Zadash",
-            "segments": [],
-            "people": [],
+            "description": "",
+            "segments": [
+                {
+                    "title": "Pre-show",
+                    "start": "0:00",
+                    "end": "10:09",
+                    "action": "skip"
+                },
+                {
+                    "title": "Break",
+                    "start": "2:24:00",
+                    "end": "2:39:01",
+                    "action": "skip"
+                },
+                {
+                    "title": "End",
+                    "start": "4:12:49",
+                    "end": "4:30:28",
+                    "action": "skip"
+                }
+            ],
+            "people": [
+                {
+                    "name": "Matt Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Caleb Widogast"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Nott the Brave"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Jester Lavorre"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Beauregard Lionett"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Fjord Stone"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Mollymauk Tealeaf"
+                },
+                {
+                    "name": "Khary Payton",
+                    "role": "Shakäste"
+                }
+            ],
             "uploadDate": "2018-03-05"
         },
         {
             "title": "Steam and Conversation",
             "youtubeid": "HtnTlm6UBpg",
-            "description": "Steam and Conversation",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2018-03-12"
@@ -80,7 +488,7 @@
         {
             "title": "Waste and Webs",
             "youtubeid": "R0rx28wgA4E",
-            "description": "Waste and Webs",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2018-03-19"
@@ -88,7 +496,7 @@
         {
             "title": "Zemnian Nights",
             "youtubeid": "w3JWNPcspoM",
-            "description": "Zemnian Nights",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2018-03-26"
@@ -96,7 +504,7 @@
         {
             "title": "Midnight Espionage",
             "youtubeid": "HoZGMqCIRK8",
-            "description": "Midnight Espionage",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2018-04-02"
@@ -104,7 +512,7 @@
         {
             "title": "Lost & Found",
             "youtubeid": "3GNcQ1Abnek",
-            "description": "Lost & Found",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2018-04-09"
@@ -112,7 +520,7 @@
         {
             "title": "Fleeting Memories",
             "youtubeid": "seY-M0i78F4",
-            "description": "Fleeting Memories",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2018-04-16"
@@ -120,7 +528,7 @@
         {
             "title": "Where the River Goes",
             "youtubeid": "0ZLwaSShk8M",
-            "description": "Where the River Goes",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2018-04-23"
@@ -128,7 +536,7 @@
         {
             "title": "A Favor in Kind",
             "youtubeid": "lT-wFK4SgJc",
-            "description": "A Favor in Kind",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2018-04-30"
@@ -136,7 +544,7 @@
         {
             "title": "Harvest Close",
             "youtubeid": "RNOyGusWh3s",
-            "description": "Harvest Close",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2018-05-07"
@@ -144,7 +552,7 @@
         {
             "title": "Whispers of War",
             "youtubeid": "4C-frHrNWjY",
-            "description": "Whispers of War",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2018-05-14"
@@ -152,7 +560,7 @@
         {
             "title": "The Gentleman's Path",
             "youtubeid": "w6jE3T_ooKw",
-            "description": "The Gentleman's Path",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2018-05-21"
@@ -160,7 +568,7 @@
         {
             "title": "Labenda Awaits",
             "youtubeid": "jyCoCqhsFp4",
-            "description": "Labenda Awaits",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-19"
@@ -168,7 +576,7 @@
         {
             "title": "Stalker in the Swamp",
             "youtubeid": "YTARojk9tBY",
-            "description": "Stalker in the Swamp",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-19"
@@ -176,7 +584,7 @@
         {
             "title": "Lost Treasures",
             "youtubeid": "aQxpxWz38P8",
-            "description": "Lost Treasures",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-19"
@@ -184,7 +592,7 @@
         {
             "title": "Have Bird, Will Travel",
             "youtubeid": "xr1dOEL2EHQ",
-            "description": "Have Bird, Will Travel",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-19"
@@ -192,7 +600,7 @@
         {
             "title": "The Hour of Honor",
             "youtubeid": "YtNB-7Jz1LQ",
-            "description": "The Hour of Honor",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-19"
@@ -200,7 +608,7 @@
         {
             "title": "Divergent Paths",
             "youtubeid": "CoomA-qeJMI",
-            "description": "Divergent Paths",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-19"
@@ -208,7 +616,7 @@
         {
             "title": "Found & Lost",
             "youtubeid": "NZVqPja6Alg",
-            "description": "Found & Lost",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-19"
@@ -216,7 +624,7 @@
         {
             "title": "Converging Fury",
             "youtubeid": "p6miK4kIwIE",
-            "description": "Converging Fury",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-19"
@@ -224,7 +632,7 @@
         {
             "title": "Within the Nest",
             "youtubeid": "_jDCU8IRyfA",
-            "description": "Within the Nest",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-19"
@@ -232,7 +640,7 @@
         {
             "title": "The Stalking Nightmare",
             "youtubeid": "L3vV7ZdE_w8",
-            "description": "The Stalking Nightmare",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-20"
@@ -240,7 +648,7 @@
         {
             "title": "The Journey Home",
             "youtubeid": "nmiBiqC3fDY",
-            "description": "The Journey Home",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-20"
@@ -248,7 +656,7 @@
         {
             "title": "Commerce & Chaos",
             "youtubeid": "FJ25t2cM6Ws",
-            "description": "Commerce & Chaos",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-20"
@@ -256,7 +664,7 @@
         {
             "title": "Beyond the Boundaries",
             "youtubeid": "aRQr1QMNHsQ",
-            "description": "Beyond the Boundaries",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-20"
@@ -264,7 +672,7 @@
         {
             "title": "The Ruby and the Sapphire",
             "youtubeid": "QbrorVyH4mk",
-            "description": "The Ruby and the Sapphire",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-20"
@@ -272,7 +680,7 @@
         {
             "title": "Encroaching Waters",
             "youtubeid": "GcmINbstp-E",
-            "description": "Encroaching Waters",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-20"
@@ -280,7 +688,7 @@
         {
             "title": "Dockside Diplomacy",
             "youtubeid": "39TP4YZHf3M",
-            "description": "Dockside Diplomacy",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-20"
@@ -288,7 +696,7 @@
         {
             "title": "O Captain, Who's Captain?",
             "youtubeid": "AB-yVfipWTU",
-            "description": "O Captain, Who's Captain?",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-20"
@@ -296,7 +704,7 @@
         {
             "title": "Dangerous Liaisons",
             "youtubeid": "B2IYaW9lUM4",
-            "description": "Dangerous Liaisons",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-20"
@@ -304,7 +712,7 @@
         {
             "title": "Welcome to the Jungle",
             "youtubeid": "GOsCZ8kQom0",
-            "description": "Welcome to the Jungle",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-20"
@@ -312,7 +720,7 @@
         {
             "title": "Temple of the False Serpent",
             "youtubeid": "M6XpCPfDP8M",
-            "description": "Temple of the False Serpent",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-20"
@@ -320,7 +728,7 @@
         {
             "title": "Dubious Pursuits",
             "youtubeid": "etjou2cxZJw",
-            "description": "Dubious Pursuits",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-20"
@@ -328,7 +736,7 @@
         {
             "title": "A Pirate's Life for Me",
             "youtubeid": "NOh9T7YeR3o",
-            "description": "A Pirate's Life for Me",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-20"
@@ -336,7 +744,7 @@
         {
             "title": "A Hole in the Plan",
             "youtubeid": "W723E1ofhcE",
-            "description": "A Hole in the Plan",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-20"
@@ -344,7 +752,7 @@
         {
             "title": "In Hot Water",
             "youtubeid": "dyArEJYKr5U",
-            "description": "In Hot Water",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-20"
@@ -352,7 +760,7 @@
         {
             "title": "The Diver's Grave",
             "youtubeid": "P8UVu-kGusg",
-            "description": "The Diver's Grave",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-20"
@@ -360,7 +768,7 @@
         {
             "title": "The Stowaway",
             "youtubeid": "ujWYp5Wr64U",
-            "description": "The Stowaway",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-20"
@@ -368,7 +776,7 @@
         {
             "title": "A Storm of Memories",
             "youtubeid": "jw1AhahRFTY",
-            "description": "A Storm of Memories",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-20"
@@ -376,7 +784,7 @@
         {
             "title": "The Second Seal",
             "youtubeid": "pj3CeW_a1hQ",
-            "description": "The Second Seal",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-20"
@@ -384,7 +792,7 @@
         {
             "title": "Homeward Bound",
             "youtubeid": "ozSrsj6TtKc",
-            "description": "Homeward Bound",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-20"
@@ -392,7 +800,7 @@
         {
             "title": "A Game of Names",
             "youtubeid": "Xmsjf8jQZWE",
-            "description": "A Game of Names",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-20"
@@ -400,7 +808,7 @@
         {
             "title": "The Endless Burrows",
             "youtubeid": "eRFetHZDSg4",
-            "description": "The Endless Burrows",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-20"
@@ -408,7 +816,7 @@
         {
             "title": "Xhorhas",
             "youtubeid": "jnn4dpC2qAQ",
-            "description": "Xhorhas",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-20"
@@ -416,7 +824,7 @@
         {
             "title": "Feral Business",
             "youtubeid": "REyVoebe06E",
-            "description": "Feral Business",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-02-25"
@@ -424,7 +832,7 @@
         {
             "title": "Cornered",
             "youtubeid": "tdP3yCRPtJY",
-            "description": "Cornered",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-03-04"
@@ -432,7 +840,7 @@
         {
             "title": "Well Beneath",
             "youtubeid": "iA0rVPoBK5E",
-            "description": "Well Beneath",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-03-11"
@@ -440,7 +848,7 @@
         {
             "title": "Duplicity",
             "youtubeid": "k1PRExWXj8o",
-            "description": "Duplicity",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-03-18"
@@ -448,7 +856,7 @@
         {
             "title": "The Favor",
             "youtubeid": "ZtcAs7jCDvw",
-            "description": "The Favor",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-03-25"
@@ -456,7 +864,7 @@
         {
             "title": "In Love and War",
             "youtubeid": "fUfCP184L0I",
-            "description": "In Love and War",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-04-08"
@@ -464,7 +872,7 @@
         {
             "title": "Wood and Steel",
             "youtubeid": "7Z610fSoifk",
-            "description": "Wood and Steel",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-04-15"
@@ -472,7 +880,7 @@
         {
             "title": "Perspective",
             "youtubeid": "-qveongNOUI",
-            "description": "Perspective",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-04-22"
@@ -480,7 +888,7 @@
         {
             "title": "A Turtle By Any Other Name",
             "youtubeid": "yJgaEh_GZ6M",
-            "description": "A Turtle By Any Other Name",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-04-29"
@@ -488,7 +896,7 @@
         {
             "title": "Agreements",
             "youtubeid": "Ck_yuplT8O8",
-            "description": "Agreements",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-05-06"
@@ -496,7 +904,7 @@
         {
             "title": "Domestic Respite",
             "youtubeid": "-EfuYx_YWC8",
-            "description": "Domestic Respite",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-05-13"
@@ -504,7 +912,7 @@
         {
             "title": "Intervention",
             "youtubeid": "CQWv6zQZTGo",
-            "description": "Intervention",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-05-20"
@@ -512,7 +920,7 @@
         {
             "title": "A Dangerous Chase",
             "youtubeid": "3yfLht7w7Yk",
-            "description": "A Dangerous Chase",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-05-27"
@@ -520,7 +928,7 @@
         {
             "title": "Chases and Trees",
             "youtubeid": "HNODkS9gZmM",
-            "description": "Chases and Trees",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-06-03"
@@ -528,7 +936,7 @@
         {
             "title": "Beneath Bazzoxan",
             "youtubeid": "JGnGZbuvSJY",
-            "description": "Beneath Bazzoxan",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-06-10"
@@ -536,7 +944,7 @@
         {
             "title": "Beyond the Eyes of Angels",
             "youtubeid": "hdtabnXnckw",
-            "description": "Beyond the Eyes of Angels",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-06-17"
@@ -544,7 +952,7 @@
         {
             "title": "Reflections",
             "youtubeid": "5GAclNF61Xs",
-            "description": "Reflections",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-06-24"
@@ -552,7 +960,7 @@
         {
             "title": "The King's Cage",
             "youtubeid": "Sj5wImPuG-k",
-            "description": "The King's Cage",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-07-01"
@@ -560,7 +968,7 @@
         {
             "title": "Causatum",
             "youtubeid": "kKeNW01RJYY",
-            "description": "Causatum",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-07-15"
@@ -568,7 +976,7 @@
         {
             "title": "Family Gathering",
             "youtubeid": "XpLgITRGA30",
-            "description": "Family Gathering",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-07-22"
@@ -576,7 +984,7 @@
         {
             "title": "Clay and Dust",
             "youtubeid": "8tCcRA2aogk",
-            "description": "Clay and Dust",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-07-29"
@@ -584,7 +992,7 @@
         {
             "title": "Uthodurn",
             "youtubeid": "M5lRGaV-xQk",
-            "description": "Uthodurn",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-08-05"
@@ -592,7 +1000,7 @@
         {
             "title": "Manifold Morals",
             "youtubeid": "rMZYyG8qm-Y",
-            "description": "Manifold Morals",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-08-12"
@@ -600,7 +1008,7 @@
         {
             "title": "Rime and Reason",
             "youtubeid": "Z1pJ0essryI",
-            "description": "Rime and Reason",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-08-19"
@@ -608,7 +1016,7 @@
         {
             "title": "Refjorged",
             "youtubeid": "BzHkVh80kVQ",
-            "description": "Refjorged",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-08-26"
@@ -616,7 +1024,7 @@
         {
             "title": "A Tangled Web",
             "youtubeid": "IW-wt6u7GNQ",
-            "description": "A Tangled Web",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-09-09"
@@ -624,7 +1032,7 @@
         {
             "title": "Between the Lines",
             "youtubeid": "Z8Jbn8VoXaw",
-            "description": "Between the Lines",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-09-23"
@@ -632,7 +1040,7 @@
         {
             "title": "Through the Trees",
             "youtubeid": "yG2vBIu1ieg",
-            "description": "Through the Trees",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-09-30"
@@ -640,7 +1048,7 @@
         {
             "title": "The Folding Halls",
             "youtubeid": "aHKloZn2rII",
-            "description": "The Folding Halls",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-10-14"
@@ -648,7 +1056,7 @@
         {
             "title": "From Door to Door",
             "youtubeid": "XPu0ANzvQdQ",
-            "description": "From Door to Door",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-10-21"
@@ -656,7 +1064,7 @@
         {
             "title": "The Beat of the Permaheart",
             "youtubeid": "2Jv3OPxR7F8",
-            "description": "The Beat of the Permaheart",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-10-28"
@@ -664,7 +1072,7 @@
         {
             "title": "Dark Bargains",
             "youtubeid": "YpoHqSgjTjg",
-            "description": "Dark Bargains",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-11-04"
@@ -672,7 +1080,7 @@
         {
             "title": "Titles and Tattoos",
             "youtubeid": "vFMddwkLjJw",
-            "description": "Titles and Tattoos",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-11-11"
@@ -680,7 +1088,7 @@
         {
             "title": "The Threads Converge",
             "youtubeid": "J1Efz6E3_-0",
-            "description": "The Threads Converge",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-11-18"
@@ -688,7 +1096,7 @@
         {
             "title": "The Cathedral",
             "youtubeid": "Wao4L1Mfam4",
-            "description": "The Cathedral",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-11-25"
@@ -696,7 +1104,7 @@
         {
             "title": "Punishment and Politics",
             "youtubeid": "3RnC_HS2Ck4",
-            "description": "Punishment and Politics",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-09"
@@ -704,7 +1112,7 @@
         {
             "title": "Unwanted Reunions",
             "youtubeid": "d-xQ5dsILYU",
-            "description": "Unwanted Reunions",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-16"
@@ -712,7 +1120,7 @@
         {
             "title": "Lingering Wounds",
             "youtubeid": "KrZps9j2bl4",
-            "description": "Lingering Wounds",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2019-12-23"
@@ -720,7 +1128,7 @@
         {
             "title": "Bathhouses and Bastions",
             "youtubeid": "wdHE0avQRVw",
-            "description": "Bathhouses and Bastions",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-01-13"
@@ -728,7 +1136,7 @@
         {
             "title": "Stone to Clay",
             "youtubeid": "mN6jDz0UPdo",
-            "description": "Stone to Clay",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-01-20"
@@ -736,7 +1144,7 @@
         {
             "title": "Home Is Where the Heart Is",
             "youtubeid": "qS9rz1srwio",
-            "description": "Home Is Where the Heart Is",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-01-27"
@@ -744,7 +1152,7 @@
         {
             "title": "Misery Loves Company",
             "youtubeid": "PJawve2RxNM",
-            "description": "Misery Loves Company",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-02-03"
@@ -752,7 +1160,7 @@
         {
             "title": "With Great Power...",
             "youtubeid": "Arx8bX4E_Cw",
-            "description": "With Great Power...",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-02-10"
@@ -760,7 +1168,7 @@
         {
             "title": "Blessing In Disguise",
             "youtubeid": "1Db5CorBfz4",
-            "description": "Blessing In Disguise",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-02-17"
@@ -768,7 +1176,7 @@
         {
             "title": "Family Shatters",
             "youtubeid": "Tmz4TS3Div8",
-            "description": "Family Shatters",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-02-24"
@@ -776,7 +1184,7 @@
         {
             "title": "The Fancy and the Fooled",
             "youtubeid": "SV8eKqbZZNQ",
-            "description": "The Fancy and the Fooled",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-03-02"
@@ -784,7 +1192,7 @@
         {
             "title": "Dark Waters",
             "youtubeid": "4OH5Sa8x_Cw",
-            "description": "Dark Waters",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-03-09"
@@ -792,7 +1200,7 @@
         {
             "title": "High Seas, High Stakes",
             "youtubeid": "KmLNSQwQQXQ",
-            "description": "High Seas, High Stakes",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-03-16"
@@ -800,7 +1208,7 @@
         {
             "title": "The Mighty Nein Roll Hit Points for Level 12",
             "youtubeid": "yvcrm4RIc_o",
-            "description": "The Mighty Nein Roll Hit Points for Level 12",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-07-01"
@@ -808,7 +1216,7 @@
         {
             "title": "Hunted at Sea",
             "youtubeid": "1s0odp2AI_0",
-            "description": "Hunted at Sea",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-07-06"
@@ -816,7 +1224,7 @@
         {
             "title": "Mysteries, Memories, and Music",
             "youtubeid": "GGQhSkwh2h4",
-            "description": "Mysteries, Memories, and Music",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-07-13"
@@ -824,7 +1232,7 @@
         {
             "title": "Ghosts, Dinosaurs, and Stuff",
             "youtubeid": "hKlo5FWlxnA",
-            "description": "Ghosts, Dinosaurs, and Stuff",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-07-20"
@@ -832,7 +1240,7 @@
         {
             "title": "Maritime Mysteries",
             "youtubeid": "1XUaTszLV6Q",
-            "description": "Maritime Mysteries",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-07-27"
@@ -840,7 +1248,7 @@
         {
             "title": "The Ruined Sliver",
             "youtubeid": "ni3aw71y7LI",
-            "description": "The Ruined Sliver",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-08-03"
@@ -848,7 +1256,7 @@
         {
             "title": "Rumble at Rumblecusp",
             "youtubeid": "ItgpnsJS2pE",
-            "description": "Rumble at Rumblecusp",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-08-10"
@@ -856,7 +1264,7 @@
         {
             "title": "A Fog Lifted",
             "youtubeid": "PWMlvpyFm-E",
-            "description": "A Fog Lifted",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-08-17"
@@ -864,7 +1272,7 @@
         {
             "title": "Devoutness and Dicks",
             "youtubeid": "dd8jt0jfeww",
-            "description": "Devoutness and Dicks",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-08-31"
@@ -872,7 +1280,7 @@
         {
             "title": "Traveler Con",
             "youtubeid": "YIcNZERTDOY",
-            "description": "Traveler Con",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-09-07"
@@ -880,7 +1288,7 @@
         {
             "title": "Frigid Propositions",
             "youtubeid": "kFPLx3SICi0",
-            "description": "Frigid Propositions",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-09-14"
@@ -888,7 +1296,7 @@
         {
             "title": "Dinner with the Devil",
             "youtubeid": "pgasGt17Kqo",
-            "description": "Dinner with the Devil",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-09-21"
@@ -896,7 +1304,7 @@
         {
             "title": "New Homes and Old Friends",
             "youtubeid": "-9pOQ7n3z5g",
-            "description": "New Homes and Old Friends",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-09-28"
@@ -904,7 +1312,7 @@
         {
             "title": "The Chase Begins",
             "youtubeid": "A5IMAFoBVWc",
-            "description": "The Chase Begins",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-10-19"
@@ -912,7 +1320,7 @@
         {
             "title": "A Heart Grown Cold",
             "youtubeid": "0HncegOZtNQ",
-            "description": "A Heart Grown Cold",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-10-26"
@@ -920,7 +1328,7 @@
         {
             "title": "An Open Window",
             "youtubeid": "UGcLpm4iEBg",
-            "description": "An Open Window",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-11-02"
@@ -928,7 +1336,7 @@
         {
             "title": "Fetching Fables & Frosty Friends",
             "youtubeid": "kwTzNMNQCEA",
-            "description": "Fetching Fables & Frosty Friends",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-11-09"
@@ -936,7 +1344,7 @@
         {
             "title": "Under Timeless Ice",
             "youtubeid": "DhlfFwDOwPM",
-            "description": "Under Timeless Ice",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-11-16"
@@ -944,7 +1352,7 @@
         {
             "title": "The Tortoise and The Dare",
             "youtubeid": "pRgFL6Zi3nM",
-            "description": "The Tortoise and The Dare",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-11-23"
@@ -952,7 +1360,7 @@
         {
             "title": "Solace Between the Secrets",
             "youtubeid": "KcwtwrI1-dc",
-            "description": "Solace Between the Secrets",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-12-07"
@@ -960,7 +1368,7 @@
         {
             "title": "Malice and Mystery Below",
             "youtubeid": "xAQy-ompDc4",
-            "description": "Malice and Mystery Below",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-12-14"
@@ -968,7 +1376,7 @@
         {
             "title": "Contentious Company",
             "youtubeid": "EDudet-qZIg",
-            "description": "Contentious Company",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2020-12-21"
@@ -976,7 +1384,7 @@
         {
             "title": "Ice and Fire",
             "youtubeid": "rLdtEUHzmGU",
-            "description": "Ice and Fire",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2021-01-18"
@@ -984,7 +1392,7 @@
         {
             "title": "Nothing Ventured, Nothing Gained",
             "youtubeid": "lY_niV3P0IU",
-            "description": "Nothing Ventured, Nothing Gained",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2021-01-25"
@@ -992,7 +1400,7 @@
         {
             "title": "Fair-weather Faith",
             "youtubeid": "uHGvn3IPh5k",
-            "description": "Fair-weather Faith",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2021-02-01"
@@ -1000,7 +1408,7 @@
         {
             "title": "A Walk to Warmer Welcomes",
             "youtubeid": "qZUW4zdS6dk",
-            "description": "A Walk to Warmer Welcomes",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2021-02-08"
@@ -1008,7 +1416,7 @@
         {
             "title": "The Neverending Day",
             "youtubeid": "bfWYxuiegX8",
-            "description": "The Neverending Day",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2021-02-15"
@@ -1016,7 +1424,7 @@
         {
             "title": "Worth Fighting For",
             "youtubeid": "guI9DCxK_es",
-            "description": "Worth Fighting For",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2021-02-22"
@@ -1024,7 +1432,7 @@
         {
             "title": "Sarsaparilla, Licorice, and Red Hot",
             "youtubeid": "oagFBOV4MX4",
-            "description": "Sarsaparilla, Licorice, and Red Hot",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2021-03-01"
@@ -1032,7 +1440,7 @@
         {
             "title": "Cat and Mouse",
             "youtubeid": "xPelkwqSOCs",
-            "description": "Cat and Mouse",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2021-03-08"
@@ -1040,7 +1448,7 @@
         {
             "title": "Between a Ball and a Hot Place",
             "youtubeid": "6nR3FGyyG4I",
-            "description": "Between a Ball and a Hot Place",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2021-03-15"
@@ -1048,7 +1456,7 @@
         {
             "title": "The Calm Before The Storm",
             "youtubeid": "mZ-dVqIlKAk",
-            "description": "The Calm Before The Storm",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2021-03-22"
@@ -1056,7 +1464,7 @@
         {
             "title": "Into the Eye",
             "youtubeid": "VAG8d9F3ULU",
-            "description": "Into the Eye",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2021-03-29"
@@ -1064,7 +1472,7 @@
         {
             "title": "Aeor",
             "youtubeid": "z_QadZ8S9rU",
-            "description": "Aeor",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2021-04-05"
@@ -1072,7 +1480,7 @@
         {
             "title": "Hunter and Hunted",
             "youtubeid": "6hB73g8SF_k",
-            "description": "Hunter and Hunted",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2021-04-12"
@@ -1080,7 +1488,7 @@
         {
             "title": "The Streets of the Forgotten",
             "youtubeid": "vTwG0Tfvkbo",
-            "description": "The Streets of the Forgotten",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2021-04-19"
@@ -1088,7 +1496,7 @@
         {
             "title": "The Genesis Ward",
             "youtubeid": "As-CPD7Z5As",
-            "description": "The Genesis Ward",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2021-04-26"
@@ -1096,7 +1504,7 @@
         {
             "title": "Hell or High Water",
             "youtubeid": "L3M4B2HmeS8",
-            "description": "Hell or High Water",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2021-05-03"
@@ -1104,7 +1512,7 @@
         {
             "title": "The Mighty Nein Roll Hit Points for Level 15",
             "youtubeid": "NyGVDr6l1QA",
-            "description": "The Mighty Nein Roll Hit Points for Level 15",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2021-05-06"
@@ -1112,7 +1520,7 @@
         {
             "title": "Welcome to Cognouza",
             "youtubeid": "l_loCAlJIVs",
-            "description": "Welcome to Cognouza",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2021-05-10"
@@ -1120,7 +1528,7 @@
         {
             "title": "Where There Is A Will...",
             "youtubeid": "abczYOn1lIQ",
-            "description": "Where There Is A Will...",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2021-05-17"
@@ -1128,7 +1536,7 @@
         {
             "title": "Rebirth",
             "youtubeid": "KCX70GGxpoA",
-            "description": "Rebirth",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2021-05-24"
@@ -1136,7 +1544,7 @@
         {
             "title": "Long May He Reign",
             "youtubeid": "W5O0bbA7Pn8",
-            "description": "Long May He Reign",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2021-05-31"
@@ -1144,7 +1552,7 @@
         {
             "title": "Fond Farewells",
             "youtubeid": "lEZ5UPPtaHA",
-            "description": "Fond Farewells",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2021-06-07"
@@ -1152,7 +1560,7 @@
         {
             "title": "The Mighty Nein Reunited Part 1",
             "youtubeid": "XhkjjN7M0hk",
-            "description": "The Mighty Nein Reunited Part 1",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2022-11-21"
@@ -1160,7 +1568,7 @@
         {
             "title": "The Mighty Nein Reunited: Part 2",
             "youtubeid": "c5NsUbMoXxw",
-            "description": "The Mighty Nein Reunited: Part 2",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2022-12-05"
@@ -1168,7 +1576,7 @@
         {
             "title": "The Mighty Nein Reunion: Echoes of the Solstice",
             "youtubeid": "-RAmTSX8Ef8",
-            "description": "The Mighty Nein Reunion: Echoes of the Solstice",
+            "description": "",
             "segments": [],
             "people": [],
             "uploadDate": "2023-10-30"
