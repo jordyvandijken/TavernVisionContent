@@ -430,14 +430,126 @@
                 },
                 {
                     "title": "Break",
-                    "start": "2:24:00",
-                    "end": "2:39:01",
+                    "start": "1:31:11",
+                    "end": "1:49:31",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "4:12:49",
-                    "end": "4:30:28",
+                    "start": "3:32:32",
+                    "end": "3:47:10",
+                    "action": "skip"
+                }
+            ],
+            "people": [
+                {
+                    "name": "Matt Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Caleb Widogast"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Nott the Brave"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Jester Lavorre"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Beauregard Lionett"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Fjord Stone"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Mollymauk Tealeaf"
+                }
+            ],
+            "uploadDate": "2018-03-05"
+        },
+        {
+            "title": "Steam and Conversation",
+            "youtubeid": "HtnTlm6UBpg",
+            "description": "",
+            "segments": [
+                {
+                    "title": "Pre-show",
+                    "start": "0:00",
+                    "end": "11:10",
+                    "action": "skip"
+                },
+                {
+                    "title": "Break",
+                    "start": "1:57:47",
+                    "end": "2:13:25",
+                    "action": "skip"
+                },
+                {
+                    "title": "End",
+                    "start": "3:28:38",
+                    "end": "3:43:45",
+                    "action": "skip"
+                }
+            ],
+            "people": [
+                {
+                    "name": "Matt Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Caleb Widogast"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Nott the Brave"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Jester Lavorre"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Beauregard Lionett"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Fjord Stone"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Mollymauk Tealeaf"
+                }
+            ],
+            "uploadDate": "2018-03-12"
+        },
+        {
+            "title": "Waste and Webs",
+            "youtubeid": "R0rx28wgA4E",
+            "description": "",
+            "segments": [
+                {
+                    "title": "Pre-show",
+                    "start": "0:00",
+                    "end": "11:14",
+                    "action": "skip"
+                },
+                {
+                    "title": "Break",
+                    "start": "1:45:00",
+                    "end": "2:02:04",
+                    "action": "skip"
+                },
+                {
+                    "title": "End",
+                    "start": "3:59:03",
+                    "end": "4:13:25",
                     "action": "skip"
                 }
             ],
@@ -471,114 +583,648 @@
                     "role": "Mollymauk Tealeaf"
                 },
                 {
-                    "name": "Khary Payton",
-                    "role": "Shakäste"
+                    "name": "Ashley Johnson",
+                    "role": "Yasha Nydoorin"
                 }
             ],
-            "uploadDate": "2018-03-05"
-        },
-        {
-            "title": "Steam and Conversation",
-            "youtubeid": "HtnTlm6UBpg",
-            "description": "",
-            "segments": [],
-            "people": [],
-            "uploadDate": "2018-03-12"
-        },
-        {
-            "title": "Waste and Webs",
-            "youtubeid": "R0rx28wgA4E",
-            "description": "",
-            "segments": [],
-            "people": [],
             "uploadDate": "2018-03-19"
         },
         {
             "title": "Zemnian Nights",
             "youtubeid": "w3JWNPcspoM",
             "description": "",
-            "segments": [],
-            "people": [],
+            "segments": [
+                {
+                    "title": "Pre-show",
+                    "start": "0:00",
+                    "end": "10:26",
+                    "action": "skip"
+                },
+                {
+                    "title": "Break",
+                    "start": "1:50:49",
+                    "end": "2:07:24",
+                    "action": "skip"
+                },
+                {
+                    "title": "End",
+                    "start": "4:02:48",
+                    "end": "4:16:50",
+                    "action": "skip"
+                }
+            ],
+            "people": [
+                {
+                    "name": "Matt Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Caleb Widogast"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Nott the Brave"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Jester Lavorre"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Beauregard Lionett"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Fjord Stone"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Mollymauk Tealeaf"
+                }
+            ],
             "uploadDate": "2018-03-26"
         },
         {
             "title": "Midnight Espionage",
             "youtubeid": "HoZGMqCIRK8",
             "description": "",
-            "segments": [],
-            "people": [],
+            "segments": [
+                {
+                    "title": "Pre-show",
+                    "start": "0:00",
+                    "end": "8:07",
+                    "action": "skip"
+                },
+                {
+                    "title": "Break",
+                    "start": "1:30:53",
+                    "end": "1:45:24",
+                    "action": "skip"
+                },
+                {
+                    "title": "End",
+                    "start": "4:03:05",
+                    "end": "4:16:31",
+                    "action": "skip"
+                }
+            ],
+            "people": [
+                {
+                    "name": "Matt Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Caleb Widogast"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Nott the Brave"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Jester Lavorre"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Beauregard Lionett"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Fjord Stone"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Mollymauk Tealeaf"
+                }
+            ],
             "uploadDate": "2018-04-02"
         },
         {
             "title": "Lost & Found",
             "youtubeid": "3GNcQ1Abnek",
             "description": "",
-            "segments": [],
-            "people": [],
+            "segments": [
+                {
+                    "title": "Pre-show",
+                    "start": "0:00",
+                    "end": "6:22",
+                    "action": "skip"
+                },
+                {
+                    "title": "Break",
+                    "start": "2:07:02",
+                    "end": "2:22:02",
+                    "action": "skip"
+                },
+                {
+                    "title": "End",
+                    "start": "4:11:20",
+                    "end": "4:23:53",
+                    "action": "skip"
+                }
+            ],
+            "people": [
+                {
+                    "name": "Matt Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Caleb Widogast"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Nott the Brave"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Jester Lavorre"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Beauregard Lionett"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Fjord Stone"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Mollymauk Tealeaf"
+                }
+            ],
             "uploadDate": "2018-04-09"
         },
         {
             "title": "Fleeting Memories",
             "youtubeid": "seY-M0i78F4",
             "description": "",
-            "segments": [],
-            "people": [],
+            "segments": [
+                {
+                    "title": "Pre-show",
+                    "start": "0:00",
+                    "end": "10:19",
+                    "action": "skip"
+                },
+                {
+                    "title": "Break",
+                    "start": "1:35:26",
+                    "end": "1:49:21",
+                    "action": "skip"
+                },
+                {
+                    "title": "End",
+                    "start": "3:03:24",
+                    "end": "3:16:55",
+                    "action": "skip"
+                }
+            ],
+             "people": [
+                {
+                    "name": "Matt Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Caleb Widogast"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Nott the Brave"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Jester Lavorre"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Beauregard Lionett"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Fjord Stone"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Mollymauk Tealeaf"
+                }
+            ],
             "uploadDate": "2018-04-16"
         },
         {
             "title": "Where the River Goes",
             "youtubeid": "0ZLwaSShk8M",
             "description": "",
-            "segments": [],
-            "people": [],
+            "segments": [
+                {
+                    "title": "Pre-show",
+                    "start": "0:00",
+                    "end": "10:45",
+                    "action": "skip"
+                },
+                {
+                    "title": "Break",
+                    "start": "1:58:34",
+                    "end": "2:17:16",
+                    "action": "skip"
+                },
+                {
+                    "title": "End",
+                    "start": "3:37:20",
+                    "end": "3:51:59",
+                    "action": "skip"
+                }
+            ],
+            "people": [
+                {
+                    "name": "Matt Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Caleb Widogast"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Nott the Brave"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Jester Lavorre"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Beauregard Lionett"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Fjord Stone"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Mollymauk Tealeaf"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Yasha Nydoorin"
+                }
+            ],
             "uploadDate": "2018-04-23"
         },
         {
             "title": "A Favor in Kind",
             "youtubeid": "lT-wFK4SgJc",
             "description": "",
-            "segments": [],
-            "people": [],
+            "segments": [
+                {
+                    "title": "Pre-show",
+                    "start": "0:00",
+                    "end": "9:32",
+                    "action": "skip"
+                },
+                {
+                    "title": "Break",
+                    "start": "2:05:51",
+                    "end": "2:19:25",
+                    "action": "skip"
+                },
+                {
+                    "title": "End",
+                    "start": "3:58:41",
+                    "end": "4:13:03",
+                    "action": "skip"
+                }
+            ],
+            "people": [
+                {
+                    "name": "Matt Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Caleb Widogast"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Nott the Brave"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Jester Lavorre"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Beauregard Lionett"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Fjord Stone"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Mollymauk Tealeaf"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Yasha Nydoorin"
+                }
+            ],
             "uploadDate": "2018-04-30"
         },
         {
             "title": "Harvest Close",
             "youtubeid": "RNOyGusWh3s",
             "description": "",
-            "segments": [],
-            "people": [],
+            "segments": [
+                {
+                    "title": "Pre-show",
+                    "start": "0:00",
+                    "end": "12:26",
+                    "action": "skip"
+                },
+                {
+                    "title": "Break",
+                    "start": "1:57:18",
+                    "end": "2:11:31",
+                    "action": "skip"
+                },
+                {
+                    "title": "End",
+                    "start": "4:03:54",
+                    "end": "4:18:01",
+                    "action": "skip"
+                }
+            ],
+            "people": [
+                {
+                    "name": "Matt Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Caleb Widogast"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Nott the Brave"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Jester Lavorre"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Beauregard Lionett"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Fjord Stone"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Mollymauk Tealeaf"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Yasha Nydoorin"
+                }
+            ],
             "uploadDate": "2018-05-07"
         },
         {
             "title": "Whispers of War",
             "youtubeid": "4C-frHrNWjY",
             "description": "",
-            "segments": [],
-            "people": [],
+            "segments": [
+                {
+                    "title": "Pre-show",
+                    "start": "0:00",
+                    "end": "10:27",
+                    "action": "skip"
+                },
+                {
+                    "title": "Break",
+                    "start": "1:50:08",
+                    "end": "2:07:49",
+                    "action": "skip"
+                },
+                {
+                    "title": "End",
+                    "start": "4:08:28",
+                    "end": "4:27:20",
+                    "action": "skip"
+                }
+            ],
+            "people": [
+                {
+                    "name": "Matt Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Caleb Widogast"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Nott the Brave"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Jester Lavorre"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Beauregard Lionett"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Fjord Stone"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Mollymauk Tealeaf"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Yasha Nydoorin"
+                }
+            ],
             "uploadDate": "2018-05-14"
         },
         {
             "title": "The Gentleman's Path",
             "youtubeid": "w6jE3T_ooKw",
             "description": "",
-            "segments": [],
-            "people": [],
-            "uploadDate": "2018-05-21"
+             "segments": [
+                {
+                    "title": "Pre-show",
+                    "start": "0:00",
+                    "end": "10:08",
+                    "action": "skip"
+                },
+                {
+                    "title": "Break",
+                    "start": "1:58:08",
+                    "end": "2:19:39",
+                    "action": "skip"
+                },
+                {
+                    "title": "End",
+                    "start": "3:40:54",
+                    "end": "3:54:43",
+                    "action": "skip"
+                }
+            ],
+            "people": [
+                {
+                    "name": "Matt Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Caleb Widogast"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Nott the Brave"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Jester Lavorre"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Beauregard Lionett"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Fjord Stone"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Mollymauk Tealeaf"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Yasha Nydoorin"
+                }
+            ],
+           "uploadDate": "2018-05-21"
         },
         {
             "title": "Labenda Awaits",
             "youtubeid": "jyCoCqhsFp4",
             "description": "",
-            "segments": [],
-            "people": [],
+            "segments": [
+                {
+                    "title": "Pre-show",
+                    "start": "0:00",
+                    "end": "9:16",
+                    "action": "skip"
+                },
+                {
+                    "title": "End",
+                    "start": "3:28:45",
+                    "end": "3:43:41",
+                    "action": "skip"
+                }
+            ],
+            "people": [
+                {
+                    "name": "Matt Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Caleb Widogast"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Nott the Brave"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Jester Lavorre"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Beauregard Lionett"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Fjord Stone"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Mollymauk Tealeaf"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Yasha Nydoorin"
+                }
+            ],
             "uploadDate": "2019-12-19"
         },
         {
             "title": "Stalker in the Swamp",
             "youtubeid": "YTARojk9tBY",
             "description": "",
-            "segments": [],
-            "people": [],
+             "segments": [
+                {
+                    "title": "Pre-show",
+                    "start": "0:00",
+                    "end": "0:00",
+                    "action": "skip"
+                },
+                {
+                    "title": "Break",
+                    "start": "0:00",
+                    "end": "0:00",
+                    "action": "skip"
+                },
+                {
+                    "title": "End",
+                    "start": "0:00",
+                    "end": "0:00",
+                    "action": "skip"
+                }
+            ],
+            "people": [
+                {
+                    "name": "Matt Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Caleb Widogast"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Nott the Brave"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Jester Lavorre"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Beauregard Lionett"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Fjord Stone"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Mollymauk Tealeaf"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Yasha Nydoorin"
+                }
+            ],
             "uploadDate": "2019-12-19"
         },
         {
