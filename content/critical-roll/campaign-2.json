@@ -1171,23 +1171,17 @@
             "title": "Stalker in the Swamp",
             "youtubeid": "YTARojk9tBY",
             "description": "",
-             "segments": [
+            "segments": [
                 {
                     "title": "Pre-show",
                     "start": "0:00",
-                    "end": "0:00",
-                    "action": "skip"
-                },
-                {
-                    "title": "Break",
-                    "start": "0:00",
-                    "end": "0:00",
+                    "end": "10:00",
                     "action": "skip"
                 },
                 {
                     "title": "End",
-                    "start": "0:00",
-                    "end": "0:00",
+                    "start": "4:19:16",
+                    "end": "4:34:15",
                     "action": "skip"
                 }
             ],
@@ -1223,6 +1217,10 @@
                 {
                     "name": "Ashley Johnson",
                     "role": "Yasha Nydoorin"
+                },
+                {
+                    "name": "Mara Holmes",
+                    "role": "Calianna Mordsson"
                 }
             ],
             "uploadDate": "2019-12-19"
@@ -1231,16 +1229,122 @@
             "title": "Lost Treasures",
             "youtubeid": "aQxpxWz38P8",
             "description": "",
-            "segments": [],
-            "people": [],
+            "segments": [
+                {
+                    "title": "Pre-show",
+                    "start": "0:00",
+                    "end": "8:39",
+                    "action": "skip"
+                },
+                {
+                    "title": "End",
+                    "start": "3:23:28",
+                    "end": "3:37:06",
+                    "action": "skip"
+                }
+            ],
+            "people": [
+                {
+                    "name": "Matt Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Caleb Widogast"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Nott the Brave"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Jester Lavorre"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Beauregard Lionett"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Fjord Stone"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Mollymauk Tealeaf"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Yasha Nydoorin"
+                },
+                {
+                    "name": "Mara Holmes",
+                    "role": "Calianna Mordsson"
+                }
+            ],
             "uploadDate": "2019-12-19"
         },
         {
             "title": "Have Bird, Will Travel",
             "youtubeid": "xr1dOEL2EHQ",
             "description": "",
-            "segments": [],
-            "people": [],
+            "segments": [
+                {
+                    "title": "Pre-show",
+                    "start": "0:00",
+                    "end": "8:39",
+                    "action": "skip"
+                },
+                {
+                    "title": "Break",
+                    "start": "0:00",
+                    "end": "0:00",
+                    "action": "skip"
+                },
+                {
+                    "title": "End",
+                    "start": "3:23:28",
+                    "end": "3:37:06",
+                    "action": "skip"
+                }
+            ],
+            "people": [
+                {
+                    "name": "Matt Mercer",
+                    "role": "Dungeon Master"
+                },
+                {
+                    "name": "Liam O'Brien",
+                    "role": "Caleb Widogast"
+                },
+                {
+                    "name": "Sam Riegel",
+                    "role": "Nott the Brave"
+                },
+                {
+                    "name": "Laura Bailey",
+                    "role": "Jester Lavorre"
+                },
+                {
+                    "name": "Marisha Ray",
+                    "role": "Beauregard Lionett"
+                },
+                {
+                    "name": "Travis Willingham",
+                    "role": "Fjord Stone"
+                },
+                {
+                    "name": "Taliesin Jaffe",
+                    "role": "Mollymauk Tealeaf"
+                },
+                {
+                    "name": "Ashley Johnson",
+                    "role": "Yasha Nydoorin"
+                },
+                {
+                    "name": "Mara Holmes",
+                    "role": "Calianna Mordsson"
+                }
+            ],
             "uploadDate": "2019-12-19"
         },
         {
