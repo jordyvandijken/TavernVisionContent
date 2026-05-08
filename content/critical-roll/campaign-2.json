@@ -26,7 +26,7 @@
                     "title": "End",
                     "start": "3:14:45",
                     "end": "3:24:32",
-                    "action": "skip"
+                    "action": "next"
                 }
             ],
             "people": [
@@ -86,7 +86,7 @@
                     "title": "End",
                     "start": "4:09:20",
                     "end": "4:22:09",
-                    "action": "skip"
+                    "action": "next"
                 }
             ],
             "people": [
@@ -142,7 +142,7 @@
                     "title": "End",
                     "start": "3:47:43",
                     "end": "3:59:28",
-                    "action": "skip"
+                    "action": "next"
                 }
             ],
             "people": [
@@ -198,7 +198,7 @@
                     "title": "End",
                     "start": "3:42:07",
                     "end": "3:56:13",
-                    "action": "skip"
+                    "action": "next"
                 }
             ],
             "people": [
@@ -258,7 +258,7 @@
                     "title": "End",
                     "start": "3:29:16",
                     "end": "3:43:11",
-                    "action": "skip"
+                    "action": "next"
                 }
             ],
             "people": [
@@ -318,7 +318,7 @@
                     "title": "End",
                     "start": "3:52:49",
                     "end": "4:08:23",
-                    "action": "skip"
+                    "action": "next"
                 }
             ],
             "people": [
@@ -378,7 +378,7 @@
                     "title": "End",
                     "start": "4:12:49",
                     "end": "4:30:28",
-                    "action": "skip"
+                    "action": "next"
                 }
             ],
             "people": [
@@ -438,7 +438,7 @@
                     "title": "End",
                     "start": "3:32:32",
                     "end": "3:47:10",
-                    "action": "skip"
+                    "action": "next"
                 }
             ],
             "people": [
@@ -494,7 +494,7 @@
                     "title": "End",
                     "start": "3:28:38",
                     "end": "3:43:45",
-                    "action": "skip"
+                    "action": "next"
                 }
             ],
             "people": [
@@ -550,7 +550,7 @@
                     "title": "End",
                     "start": "3:59:03",
                     "end": "4:13:25",
-                    "action": "skip"
+                    "action": "next"
                 }
             ],
             "people": [
@@ -610,7 +610,7 @@
                     "title": "End",
                     "start": "4:02:48",
                     "end": "4:16:50",
-                    "action": "skip"
+                    "action": "next"
                 }
             ],
             "people": [
@@ -666,7 +666,7 @@
                     "title": "End",
                     "start": "4:03:05",
                     "end": "4:16:31",
-                    "action": "skip"
+                    "action": "next"
                 }
             ],
             "people": [
@@ -722,7 +722,7 @@
                     "title": "End",
                     "start": "4:11:20",
                     "end": "4:23:53",
-                    "action": "skip"
+                    "action": "next"
                 }
             ],
             "people": [
@@ -778,10 +778,10 @@
                     "title": "End",
                     "start": "3:03:24",
                     "end": "3:16:55",
-                    "action": "skip"
+                    "action": "next"
                 }
             ],
-             "people": [
+            "people": [
                 {
                     "name": "Matt Mercer",
                     "role": "Dungeon Master"
@@ -793,10 +793,6 @@
                 {
                     "name": "Sam Riegel",
                     "role": "Nott the Brave"
-                },
-                {
-                    "name": "Laura Bailey",
-                    "role": "Jester Lavorre"
                 },
                 {
                     "name": "Marisha Ray",
@@ -834,7 +830,7 @@
                     "title": "End",
                     "start": "3:37:20",
                     "end": "3:51:59",
-                    "action": "skip"
+                    "action": "next"
                 }
             ],
             "people": [
@@ -894,7 +890,7 @@
                     "title": "End",
                     "start": "3:58:41",
                     "end": "4:13:03",
-                    "action": "skip"
+                    "action": "next"
                 }
             ],
             "people": [
@@ -954,7 +950,7 @@
                     "title": "End",
                     "start": "4:03:54",
                     "end": "4:18:01",
-                    "action": "skip"
+                    "action": "next"
                 }
             ],
             "people": [
@@ -1014,7 +1010,7 @@
                     "title": "End",
                     "start": "4:08:28",
                     "end": "4:27:20",
-                    "action": "skip"
+                    "action": "next"
                 }
             ],
             "people": [
@@ -1057,7 +1053,7 @@
             "title": "The Gentleman's Path",
             "youtubeid": "w6jE3T_ooKw",
             "description": "",
-             "segments": [
+            "segments": [
                 {
                     "title": "Pre-show",
                     "start": "0:00",
@@ -1074,7 +1070,7 @@
                     "title": "End",
                     "start": "3:40:54",
                     "end": "3:54:43",
-                    "action": "skip"
+                    "action": "next"
                 }
             ],
             "people": [
@@ -1128,7 +1124,7 @@
                     "title": "End",
                     "start": "3:28:45",
                     "end": "3:43:41",
-                    "action": "skip"
+                    "action": "next"
                 }
             ],
             "people": [
@@ -1182,7 +1178,7 @@
                     "title": "End",
                     "start": "4:19:16",
                     "end": "4:34:15",
-                    "action": "skip"
+                    "action": "next"
                 }
             ],
             "people": [
@@ -1240,7 +1236,7 @@
                     "title": "End",
                     "start": "3:23:28",
                     "end": "3:37:06",
-                    "action": "skip"
+                    "action": "next"
                 }
             ],
             "people": [
@@ -1304,7 +1300,7 @@
                     "title": "End",
                     "start": "3:23:28",
                     "end": "3:37:06",
-                    "action": "skip"
+                    "action": "next"
                 }
             ],
             "people": [
