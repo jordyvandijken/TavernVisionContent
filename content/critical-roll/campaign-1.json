@@ -80,7 +80,7 @@
                     "title": "Pre-show",
                     "start": "0:00",
                     "end": "11:32",
-                    "action": "next"
+                    "action": "skip"
                 },
                 {
                     "title": "Break",
