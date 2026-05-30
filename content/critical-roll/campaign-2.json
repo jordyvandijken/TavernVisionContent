@@ -1181,6 +1181,12 @@
                     "action": "skip"
                 },
                 {
+                    "title": "Break",
+                    "start": "2:21:52",
+                    "end": "2:23:34",
+                    "action": "skip"
+                },
+                {
                     "title": "End",
                     "start": "4:19:16",
                     "end": "4:34:15",
@@ -1236,6 +1242,12 @@
                     "title": "Pre-show",
                     "start": "0:00",
                     "end": "8:39",
+                    "action": "skip"
+                },
+                {
+                    "title": "Break",
+                    "start": "2:23:11",
+                    "end": "2:24:30",
                     "action": "skip"
                 },
                 {
