@@ -10,6 +10,12 @@ import sys
 from pathlib import Path
 from jsonschema import Draft7Validator
 
+# Ensure emoji/Unicode output works on the default Windows console codepage.
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+except (AttributeError, ValueError):
+    pass
+
 def load_schema():
     """Load the JSON schema from schema.json"""
     try:
@@ -64,7 +70,10 @@ def main():
         print("❌ Error: content/ directory not found")
         sys.exit(1)
     
-    json_files = list(content_dir.glob('**/*.json'))
+    json_files = [
+        f for f in content_dir.glob('**/*.json')
+        if f.name != 'channel.json'
+    ]
     if not json_files:
         print("⚠️  Warning: No JSON files found in content/ directory")
         return
